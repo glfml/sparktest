@@ -1,0 +1,12 @@
+/home/gfurini/Projects/sparktest/src/main/java/testspark/InvalidSequenceException.java
+/home/gfurini/Projects/sparktest/src/main/java/testspark/SequenceFacade.java
+/home/gfurini/Projects/sparktest/src/main/java/testspark/SequenceHolder.java
+/home/gfurini/Projects/sparktest/src/main/java/testspark/testspark/application/command/NewPostPayload.java
+/home/gfurini/Projects/sparktest/src/main/java/testspark/InMemorySequenceHolder.java
+/home/gfurini/Projects/sparktest/src/main/java/testspark/SequenceGenerator.java
+/home/gfurini/Projects/sparktest/src/main/java/testspark/Hello.java
+/home/gfurini/Projects/sparktest/src/main/java/testspark/transformers/JsonTransformer.java
+/home/gfurini/Projects/sparktest/src/main/java/testspark/ResponseDTO.java
+/home/gfurini/Projects/sparktest/src/main/java/testspark/controller/SequenceController.java
+/home/gfurini/Projects/sparktest/src/main/java/testspark/controller/FirstController.java
+/home/gfurini/Projects/sparktest/src/main/java/testspark/Path.java
